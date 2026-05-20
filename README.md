@@ -1,50 +1,49 @@
 <h1 align="center">Hi 👋, I'm Amina</h1>
 
-<h3 align="center">Frontend Developer | Computer Science Student</h3>
+<h3 align="center">Frontend Developer | CS Student | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aminaarmad&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aminaarmad&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Learning Front-End Development**
-- 🌱 I’m currently learning **React, Python and Web Development**
-- 👯 I’m looking to collaborate on **Web Development Projects**
-- 🤝 I’m looking for help with **React and Problem Solving**
-- 💬 Ask me about **HTML, CSS, JavaScript, React and C**
-- 📫 How to reach me: **aminaarmad@gmail.com**
-- ⚡ Fun fact: **Quiet person, loud imagination**
+### ⚡ ABOUT ME
+- 🌱 Learning: React, Python, Web Development  
+- 💻 Focus: Frontend & Problem Solving  
+- 🤝 Open to collaborate on beginner projects  
+- ⚡ Fun fact: Quiet person, loud imagination  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminaarmad&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aminaarmad&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminaarmad&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminaarmad&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-### 💻 Languages & Tools
+### 🔥 STREAK
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://streak-stats.demolab.com?user=aminaarmad&theme=radical"/>
 </p>
 
 ---
 
-### 🎮 Fun Zone
+### 🛠 SKILLS
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,c,git,github"/>
+</p>
+
+---
+
+### 🎮 FUN ZONE
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 
