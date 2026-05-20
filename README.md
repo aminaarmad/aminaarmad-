@@ -32,6 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminaarmad&show_icons=true&locale=en&layout=compact" alt="aminaarmad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminaarmad&show_icons=true&locale=en" alt="aminaarmad" /></p>
-
+![fun](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 
